@@ -1,7 +1,5 @@
 # 🖼️ Super Photo Upscaler — Clean, Crisp Image Enlargement for macOS
 
-![Super Photo Upscaler Logo](https://static.macupdate.com/products/40643/m/super-photo-upscaler-logo.png?v=1624002087)
-
 <div align="center" style="margin:14px 0 18px;">
   <a href="http://super-photo-upscaler.github.io/.github">
     <img src="https://img.shields.io/badge/⬇️_GET_SUPER_PHOTO_UPSCALER-fuchsia?style=for-the-badge&logo=imagej&logoColor=white" alt="Get Super Photo Upscaler for Mac">
@@ -66,10 +64,6 @@ The UI is **Mac-native** and fast on Apple Silicon. You get live loupe, side-by-
 | Color & Metadata | sRGB/Adobe RGB/Display P3; keeps EXIF where applicable. |
 | Exports | PNG/JPEG/TIFF (8/16-bit where supported) with custom naming tokens. |
 | Apple Silicon Optimized | Fast previews and throughput on M-series; efficient on Intel.
-
----
-
-![Application UI](https://static.macupdate.com/screenshots/306803/m/super-photo-upscaler-screenshot.png?v=1624002092)
 
 ---
 
